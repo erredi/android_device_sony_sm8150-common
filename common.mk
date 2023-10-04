@@ -216,8 +216,10 @@ PRODUCT_PACKAGES_DEBUG += \
 
 # Camera
 PRODUCT_PACKAGES += \
-    android.hardware.camera.device@3.2.vendor \
+    android.hardware.camera.device@3.4.vendor \
+    android.hardware.camera.provider@2.6 \
     android.hardware.camera.provider@2.6.vendor \
+    android.hardware.camera.common@1.0 \
     android.hardware.camera.common@1.0.vendor
 
 # Charger
