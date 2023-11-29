@@ -232,7 +232,7 @@
         <int name="smsToMmsTextThreshold" value="-1" />
         <int name="wfc_data_spn_format_idx_int" value="1" />
         <int name="wfc_spn_format_idx_int" value="1" />
-        <string name="gps.supl_host">supl.vodafone.com</string>
+        <string name="gps.supl_host">agpss.orange.fr</string>
     </carrier_config>
     <carrier_config gid1="BAE0000000000000" mcc="204" mnc="04">
         <boolean name="carrier_volte_available_bool" value="true" />
@@ -858,7 +858,7 @@
             <item value="0" />
         </string-array>
         <int name="smsToMmsTextThreshold" value="5" />
-        <string name="gps.supl_host">supl.vodafone.com</string>
+        <string name="gps.supl_host">agpss.orange.fr</string>
     </carrier_config>
     <carrier_config mcc="214" mnc="03">
         <string-array name="gsm_nonroaming_networks_string_array" num="20">
@@ -1539,7 +1539,7 @@
             <item value="5G NR" />
         </string-array>
         <int name="smsToMmsTextThreshold" value="3" />
-        <string name="gps.supl_host">supl.vodafone.com</string>
+        <string name="gps.supl_host">agpss.orange.fr</string>
     </carrier_config>
     <carrier_config mcc="226">
         <boolean name="groupChatDefaultsToMMS" value="false" />
@@ -1563,7 +1563,7 @@
         </string-array>
         <int name="smsToMmsTextThreshold" value="10" />
         <boolean name="smsUsesSimpleCharactersOnly" value="true" />
-        <string name="gps.supl_host">supl.vodafone.com</string>
+        <string name="gps.supl_host">agpss.orange.fr</string>
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="s_config_enable_ut_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
@@ -2141,7 +2141,7 @@
         <boolean name="smsUsesSimpleCharactersOnly" value="true" />
         <int name="wfc_data_spn_format_idx_int" value="1" />
         <int name="wfc_spn_format_idx_int" value="1" />
-        <string name="gps.supl_host">supl.vodafone.com</string>
+        <string name="gps.supl_host">agpss.orange.fr</string>
     </carrier_config>
     <carrier_config gid1="0303" mcc="234" mnc="20">
         <boolean name="allowEnablingWapPushSI" value="true" />
@@ -3440,7 +3440,7 @@
         <boolean name="smsUsesSimpleCharactersOnly" value="true" />
         <int name="wfc_data_spn_format_idx_int" value="1" />
         <int name="wfc_spn_format_idx_int" value="1" />
-        <string name="gps.supl_host">supl.vodafone.com</string>
+        <string name="gps.supl_host">agpss.orange.fr</string>
     </carrier_config>
     <carrier_config mcc="262" mnc="03">
         <string-array name="carrier_metered_apn_types_strings" num="3">
@@ -3551,7 +3551,7 @@
         </string-array>
         <int name="smsToMmsTextThreshold" value="5" />
         <boolean name="smsUsesSimpleCharactersOnly" value="true" />
-        <string name="gps.supl_host">supl.vodafone.com</string>
+        <string name="gps.supl_host">agpss.orange.fr</string>
     </carrier_config>
     <carrier_config mcc="268" mnc="03">
         <string-array name="carrier_metered_apn_types_strings" num="3">
