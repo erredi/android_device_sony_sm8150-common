@@ -27,7 +27,7 @@
         <string name="default_vm_number_string" />
         <string name="wcdma_default_signal_strength_measurement_string">rssi</string>
         <string name="carrier_name_string" />
-        <string name="gps.supl_host">supl.google.com</string>
+        <string name="gps.supl_host">agpss.orange.f</string>
         <string name="gps.lpp_profile">2</string>
         <string name="gps.use_emergency_pdn_for_emergency_supl">0</string>
         <string name="gps.a_glonass_pos_protocol_select">2</string>
